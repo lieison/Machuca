@@ -19,13 +19,13 @@
 define('DB_NAME', 'machuca');
 
 /** Tu nombre de usuario de MySQL */
-define('DB_USER', 'machuca');
+define('DB_USER', 'root');
 
 /** Tu contraseña de MySQL */
-define('DB_PASSWORD', '@@Support##');
+define('DB_PASSWORD', '');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
-define('DB_HOST', 'mundocontables.com');
+define('DB_HOST', 'localhost');
 
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8');
