@@ -98,3 +98,7 @@
 0283.670 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
 0286.106 (0) No email will/can be sent - the user has not configured an email address.
 0286.719 (0) The backup apparently succeeded and is now complete
+0000.000 (1) Opened log file at time: Tue, 31 Mar 2015 01:17:04 +0000 on http://localhost/Machuca
+0000.016 (1) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.60 WP: 4.1.1 PHP: 5.5.12 (Windows NT ROLI 6.2 build 9200 (Windows 8 Business Edition) AMD64) MySQL: 5.5.23 Server: Apache/2.4.9 (Win64) OpenSSL/1.0.1g PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 30.4M | 31.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.018 (1) Free space on disk containing Updraft's temporary directory: 32585.1 Mb
+0000.020 (1) This backup task is either complete or began over 2 days ago: ending (1427764624.1021, )
