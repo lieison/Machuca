@@ -102,3 +102,7 @@
 0000.016 (1) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.60 WP: 4.1.1 PHP: 5.5.12 (Windows NT ROLI 6.2 build 9200 (Windows 8 Business Edition) AMD64) MySQL: 5.5.23 Server: Apache/2.4.9 (Win64) OpenSSL/1.0.1g PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 30.4M | 31.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
 0000.018 (1) Free space on disk containing Updraft's temporary directory: 32585.1 Mb
 0000.020 (1) This backup task is either complete or began over 2 days ago: ending (1427764624.1021, )
+0000.001 (1) Opened log file at time: Wed, 01 Apr 2015 16:40:59 +0000 on http://localhost/Machuca
+0000.144 (1) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.60 WP: 4.1.1 PHP: 5.5.12 (Windows NT GAGUIRRE 6.2 build 9200 (Windows 8 Home Premium Edition) AMD64) MySQL: 5.6.17 Server: Apache/2.4.9 (Win64) PHP/5.5.12 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 30.4M | 31M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.150 (1) Free space on disk containing Updraft's temporary directory: 229442.7 Mb
+0000.157 (1) This backup task is either complete or began over 2 days ago: ending (1427906459.1804, )
